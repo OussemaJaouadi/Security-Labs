@@ -2,6 +2,12 @@
 
 ## 1. Linux Fundamentals 
 
+### Overview
+
+![Alt text](/Overview/image.png)
+
+### Labs 
+
 1. Linux Fundamentals Part 1
 
 ![Alt text](/LinuxFund1/1.png)
@@ -35,6 +41,12 @@
 ![Alt text](/LinuxFund3/image-6.png)
 
 ## 2. Web Fundamentals
+
+### Overview
+
+![Alt text](/Overview/image-1.png)
+
+### Labs 
 
 1. HTTP in detail
 
@@ -122,6 +134,12 @@
 
 ## 3. Network Fundamentals, Attacks and Exploits
 
+### Overview
+
+![Alt text](/Overview/image-2.png)
+
+### Labs
+
 1. Introductory Networking
 
 ![Alt text](/IntroNetwork/image.png)
@@ -134,7 +152,7 @@
 ![Alt text](/IntroNetwork/image-7.png)
 ![Alt text](/IntroNetwork/image-8.png)
 
-2. Nmap [ done ]
+2. Nmap
 
 ![Alt text](/Nmap/image.png)
 ![Alt text](/Nmap/image-1.png)
@@ -154,6 +172,14 @@
 ![Alt text](/Nmap/image-15.png)
 
 ## 4. Basic Computer Exploitation
+
+### Overview
+
+![Alt text](/Overview/image-4.png)
+![Alt text](/Overview/image-3.png)
+
+
+### Labs
 
 1. Metasploit
 
@@ -192,6 +218,14 @@
 
 ## 5. Defensive Blue Teaming
 
+### Overview
+
+![Alt text](/Overview/image-5.png)
+
+### Threat & Vulnerability Management Module
+
+![Alt text](/Overview/image-6.png)
+
 1. Nessus
 
 ![Alt text](/Nessus/image.png)
@@ -228,7 +262,11 @@
 ![Alt text](/OpenVAS/image-6.png)
 ![Alt text](/OpenVAS/image-7.png)
 
-4. x86 Architecture Overview
+### Malware Analysis Module
+
+![Alt text](/Overview/image-7.png)
+
+1. x86 Architecture Overview
 
 ![Alt text](/x86/image-8.png)
 ![Alt text](/x86/image-9.png)
@@ -237,7 +275,7 @@
 ![Alt text](/x86/image-12.png)
 ![Alt text](/x86/image-13.png)
 
-5. Dissecting PE Headers 
+2. Dissecting PE Headers 
 
 ![Alt text](/PEHeader/image.png)
 ![Alt text](/PEHeader/image-1.png)
@@ -248,17 +286,28 @@
 ![Alt text](/PEHeader/image-6.png)
 ![Alt text](/PEHeader/image-7.png)
 
-6. MalBuster
+3. MalBuster
 
 ![Alt text](/MalBuster/image.png)
 ![Alt text](/MalBuster/image-1.png)
 
-7. Investigating Windows 
+### Security Operations & Monitoring Module
+
+- All the labs are payed
+
+![Alt text](/Overview/image-8.png)
+
+### Incident Response and Forensics
+
+![Alt text](/Overview/image-9.png)
+
+
+1. Investigating Windows 
 
 ![Alt text](/InvestigatingWindows/image.png)
 ![Alt text](/InvestigatingWindows/image-1.png)
 
-8. Windows Forensics 1 
+2. Windows Forensics 1 
 
 ![Alt text](/WinFor1/image-8.png)
 ![Alt text](/WinFor1/image-9.png)
@@ -271,7 +320,7 @@
 ![Alt text](/WinFor1/image-16.png)
 ![Alt text](/WinFor1/image-17.png)
 
-9. Redline 
+3. Redline 
 
 ![Alt text](/Redline/image.png)
 ![Alt text](/Redline/image-1.png)
@@ -282,12 +331,16 @@
 ![Alt text](/Redline/image-6.png)
 ![Alt text](/Redline/image-7.png)
 
-10. Disk Analysis & Autopsy 
+4. Disk Analysis & Autopsy 
 
 ![Alt text](/DiskAnalysis/image-18.png)
 ![Alt text](/DiskAnalysis/image-19.png)
 
-11. Intro to Threat Emulation
+### Threat and Emulation
+
+![Alt text](/Overview/image-10.png)
+
+1. Intro to Threat Emulation
 
 ![Alt text](/ThreatEmulation/image-27.png)
 ![Alt text](/ThreatEmulation/image-28.png)
@@ -296,7 +349,7 @@
 ![Alt text](/ThreatEmulation/image-31.png)
 
 
-12. Thrat Modelling
+2. Thrat Modelling
 
 ![Alt text](/ThreatModeling/image-20.png)
 ![Alt text](/ThreatModeling/image-21.png)
